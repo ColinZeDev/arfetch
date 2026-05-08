@@ -15,4 +15,10 @@ ArFetch has many differences including:
 
 ---
 
+### Usage
+- `arfetch` Displays the info
+- `arfetch -v|--version` Prints version
+
+---
+
 #### * **If anything is broken (like the init system stuff cause I only know the OpenRC one works) pleak make an issue post or something)**
