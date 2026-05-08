@@ -21,4 +21,13 @@ ArFetch has many differences including:
 
 ---
 
+### Installation
+ArFetch is on the AUR, so to install it simply just install the `arfetch-bin` package with your AUR helper of choice.
+**Example:**
+```sh
+yay -S arfetch-bin
+```
+
+---
+
 #### * **If anything is broken (like the init system stuff cause I only know the OpenRC one works) pleak make an issue post or something)**
