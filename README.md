@@ -11,7 +11,8 @@ ArFetch has many differences including:
 ---
 
 ### Example
-![example1](https://raw.githubusercontent.com/ColinZeDev/arfetch/refs/heads/main/examples/example1.png)
+![example1](https://raw.githubusercontent.com/ColinZeDev/arfetch/refs/heads/main/DWM_2026-05-11_17-51-51.png)
+(**NOT** the default colors, just my config)
 
 ---
 
