@@ -134,9 +134,13 @@ class InfoGrab:
         def color_char(c: str) -> str:
             if c == "A":
                 return f"{BOLD}{MAINCOLOR}{c}{RESET}"
-            if c in FRAME:
+            elif c == ":":
+                return f"{BOLD}{MAINCOLOR}{c}{RESET}"
+            elif c == "i":
+                return f"{BOLD}{MAINCOLOR}{c}{RESET}"
+            elif c in FRAME:
                 return f"{BOLD}{SECONDARYCOLOR}{c}{RESET}"
-            if c in FILL:
+            elif c in FILL:
                 return f"{BOLD}{MAINCOLOR}{c}{RESET}"
             return c
 
